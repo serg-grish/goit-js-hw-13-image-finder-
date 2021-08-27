@@ -97,4 +97,4 @@ var e,n=arguments[3];!function(t){"object"==typeof exports&&"undefined"!=typeof 
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/imageFinder"),require("./js/lightbox");var e=r(require("smoothscroll-polyfill"));function r(e){return e&&e.__esModule?e:{default:e}}e.default.polyfill();
 },{"./sass/main.scss":"clu1","./js/imageFinder":"me4w","./js/lightbox":"bLn9","smoothscroll-polyfill":"LTbr"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-13-image-finder-/src.eb360b39.js.map
+//# sourceMappingURL=/goit-js-hw-13-image-finder-/src.80d86775.js.map
