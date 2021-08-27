@@ -48,16 +48,12 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
-
-  animation-name: bounceInDown;
 }
 
 .search-title {
   color: #d172ad;
-  text-align: center;
-  font-size: 54px;
-  margin-top: 80px;
-  animation-name: bounceInDown;
+  font-size: 60px;
+  margin-left: 40px;
 }
 
 .search-form-input,
@@ -71,7 +67,6 @@ img {
 .search-form-input {
   outline: none;
   width: 100%;
-  background-color: transparent;
   padding: 20px;
   appearance: none;
   z-index: 1;
@@ -88,7 +83,6 @@ img {
   width: 140px;
   font-weight: bold;
   background-color: #acb4e2;
-  border-radius: 50%;
   cursor: pointer;
 
   transition: opacity 500ms ease-in-out;
